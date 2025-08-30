@@ -1,0 +1,43 @@
+2025-08-30 12:14:52 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:14:52 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:14:52 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:14:52 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:14:52 | PromptOptimizer | INFO | Iniciando otimização para universal
+2025-08-30 12:14:52 | PromptOptimizer | INFO | Otimização concluída. Tamanho: 214 chars
+2025-08-30 12:14:52 | LLMRouter | INFO | Iniciando roteamento para target: universal
+2025-08-30 12:14:52 | LLMRouter | INFO | Roteamento concluído para universal
+2025-08-30 12:15:09 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:15:09 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:15:09 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:15:09 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:15:09 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:15:12 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:15:12 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:15:12 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:15:12 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:15:12 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:18:17 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:18:17 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:18:17 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:18:17 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:18:17 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:18:35 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:18:35 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:18:35 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:18:35 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:18:35 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:23:46 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:23:46 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:23:46 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:23:46 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:23:46 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:24:00 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:24:00 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:24:00 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:24:00 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:24:00 | LLMRouter | INFO | LLMRouter inicializado
+2025-08-30 12:24:02 | prompt_router | INFO | Logger 'prompt_router' configurado com sucesso
+2025-08-30 12:24:02 | PromptOptimizer | INFO | Logger 'PromptOptimizer' configurado com sucesso
+2025-08-30 12:24:02 | PromptOptimizer | INFO | PromptOptimizer inicializado
+2025-08-30 12:24:02 | LLMRouter | INFO | Logger 'LLMRouter' configurado com sucesso
+2025-08-30 12:24:02 | LLMRouter | INFO | LLMRouter inicializado

@@ -1,0 +1,33 @@
+"""
+Template Universal para Prompt Router
+Este template é projetado para funcionar bem com qualquer LLM
+
+Características universais:
+- Estrutura clara e simples
+- Instruções diretas
+- Compatível com diferentes modelos
+- Foco em clareza e precisão
+"""
+
+**Solicitação:** {prompt}
+
+**Instruções de Resposta:**
+- Analise cuidadosamente a solicitação acima
+- Forneça uma resposta completa, estruturada e detalhada
+- Use linguagem clara e precisa
+- Inclua exemplos práticos quando apropriado
+- Organize a informação de forma lógica
+- Seja útil e acionável na sua resposta
+
+**Diretrizes:**
+✓ Precisão e clareza são prioritárias
+✓ Estruture a resposta em seções quando necessário
+✓ Inclua contexto relevante
+✓ Forneça exemplos práticos
+✓ Seja completo mas conciso
+
+---
+
+Por favor, processe esta solicitação fornecendo uma resposta abrangente e bem estruturada.
+
+**Data/Hora:** {timestamp}

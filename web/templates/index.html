@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prompt Router</title>
+  <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+  <div class="header">Prompt Router</div>
+  <div class="container">
+    <aside class="sidebar">
+      <div class="history-title">Histórico de Prompts</div>
+      <ul class="history-list">
+        <li>"Como melhorar a UX de um app?"</li>
+        <li>"Explique LLMs para leigos."</li>
+        <li>"Gere um resumo de artigo científico."</li>
+      </ul>
+    </aside>
+    <main class="main">
+      <section>
+        <textarea class="prompt-input" placeholder="Digite seu prompt aqui..."></textarea>
+      </section>
+      <section class="llm-select">
+        <label for="llm">LLM de destino:</label>
+        <select id="llm">
+          <option>Claude</option>
+          <option>OpenAI</option>
+          <option>Cursor</option>
+          <option>Universal</option>
+        </select>
+      </section>
+      <section class="opt-switch">
+        <label for="opt">Otimização:</label>
+        <input type="checkbox" id="opt" checked>
+      </section>
+      <section>
+        <button class="btn">Executar</button>
+      </section>
+      <section>
+        <div class="output-area" id="output">Saída otimizada aparecerá aqui...</div>
+      </section>
+      <section class="export-btns">
+        <button class="btn">Exportar JSON</button>
+        <button class="btn">Exportar Markdown</button>
+        <button class="btn">Exportar Texto</button>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

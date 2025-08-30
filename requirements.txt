@@ -1,0 +1,33 @@
+# Dependências principais do Prompt Router
+# Instale com: pip install -r requirements.txt
+
+# ===== CORE DEPENDENCIES =====
+python-dotenv>=1.0.0         # Gerenciamento de variáveis de ambiente
+langchain>=0.1.0             # Framework para desenvolvimento com LLMs
+langchain-community>=0.0.20  # Extensões da comunidade LangChain
+
+# ===== INTEGRAÇÃO COM LLMs =====
+openai>=1.12.0               # Cliente oficial OpenAI
+anthropic>=0.18.0            # Cliente oficial Anthropic (Claude)
+
+# ===== UTILITÁRIOS =====
+requests>=2.31.0             # Cliente HTTP para APIs
+rich>=13.7.0                 # Output colorido e formatado no terminal
+click>=8.1.0                 # CLI framework (alternativa ao argparse)
+pyyaml>=6.0                  # Parser de arquivos YAML
+jinja2>=3.1.0                # Engine de templates
+
+# ===== DEVELOPMENT & TESTING =====
+pytest>=7.4.0               # Framework de testes
+black>=23.0.0                # Formatador de código
+flake8>=6.0.0                # Linter de código
+mypy>=1.5.0                  # Verificação de tipos
+
+# ===== LOGGING & MONITORING =====
+loguru>=0.7.0                # Logger avançado (alternativa ao logging padrão)
+
+# ===== OPCIONAL - PERFORMANCE =====
+# uvloop>=0.17.0             # Event loop mais rápido (Linux/macOS apenas)
+# aiohttp>=3.9.0             # Cliente HTTP assíncrono
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
